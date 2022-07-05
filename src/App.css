@@ -14,7 +14,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +34,26 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.group-button {
+  display: flex;
+  width: 50%;
+  height: 50px;
+  justify-content: space-between;
+  margin-bottom: 10%;
+  padding: 20px;
+  position: fixed;
+}
+
+.button-choose {
+  width: 150px !important;
+  height: 30px;
+  padding: 10px;
+  text-transform: uppercase;
+  word-wrap: none;
+}
+
+.active {
+  background-color: var(--orange) !important;
 }
