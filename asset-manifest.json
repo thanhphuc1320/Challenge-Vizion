@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Challenge-Vizion/static/css/main.c4b1fb2b.css",
-    "main.js": "/Challenge-Vizion/static/js/main.7912b154.js",
-    "static/js/787.e97daa6d.chunk.js": "/Challenge-Vizion/static/js/787.e97daa6d.chunk.js",
+    "main.js": "/Challenge-Vizion/static/js/main.b58b245d.js",
+    "static/js/787.317d32c8.chunk.js": "/Challenge-Vizion/static/js/787.317d32c8.chunk.js",
     "index.html": "/Challenge-Vizion/index.html",
     "main.c4b1fb2b.css.map": "/Challenge-Vizion/static/css/main.c4b1fb2b.css.map",
-    "main.7912b154.js.map": "/Challenge-Vizion/static/js/main.7912b154.js.map",
-    "787.e97daa6d.chunk.js.map": "/Challenge-Vizion/static/js/787.e97daa6d.chunk.js.map"
+    "main.b58b245d.js.map": "/Challenge-Vizion/static/js/main.b58b245d.js.map",
+    "787.317d32c8.chunk.js.map": "/Challenge-Vizion/static/js/787.317d32c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4b1fb2b.css",
-    "static/js/main.7912b154.js"
+    "static/js/main.b58b245d.js"
   ]
 }
